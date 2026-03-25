@@ -18,3 +18,9 @@ Script em Python para organizar arquivos automaticamente por categoria.
 - Áudios
 - Vídeos
 - Outros
+
+## Como executar
+1. Instale o Python
+2. Baixe os arquivos do projeto
+3. Execute:
+python sistema_estoque.py
