@@ -28,6 +28,7 @@ python organizador_arquivos.py
 
 ## Estrutura do projeto
 organizador_arquivos.py
+
 README.md
 
 ## Aplicações práticas
@@ -54,7 +55,9 @@ Durante o desenvolvimento deste projeto, foram praticados conceitos como:
 
 ## Autor
 Paulo Henrique de Melo Bezerra
+
 Estudante de Ciência da Computação - CEUB
+
 Brasília - DF
 
 ## Contato
