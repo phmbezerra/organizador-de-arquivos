@@ -54,7 +54,7 @@ Durante o desenvolvimento deste projeto, foram praticados conceitos como:
 - opção de desfazer a organização
 
 ## Autor
-Paulo Henrique de Melo Bezerra
+**Paulo Henrique de Melo Bezerra**
 
 Estudante de Ciência da Computação - CEUB
 
