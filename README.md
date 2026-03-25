@@ -28,6 +28,7 @@ python organizador_arquivos.py
 
 ## Estrutura do projeto
 organizador_arquivos.py
+
 README.md
 
 ## Aplicações práticas
